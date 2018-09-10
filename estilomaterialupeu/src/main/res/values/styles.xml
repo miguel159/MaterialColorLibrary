@@ -120,6 +120,23 @@
     </style>
 
 
+    <!-- Blukelike App Theme -->
+    <style name="BaseTheme.Bluelike" parent="AppTheme">
+        <!-- Attributes for all APIs -->
+        <item name="colorPrimary">@color/material_bluelike_500</item>
+        <item name="colorPrimaryDark">@color/material_bluelike_700</item>
+        <item name="colorAccent">@color/material_bluelike_a700</item>
+        <item name="dialogTheme">@style/AppTheme.Dialog.Bluelike</item>
+        <item name="alertDialogTheme">@style/AppTheme.Dialog.Alert.Bluelike</item>
+    </style>
+
+    <style name="AppTheme.Bluelike" parent="BaseTheme.Bluelike">
+        <!-- API specific attributes 14+ -->
+        <item name="selectableRectDrawableColored">@drawable/state_list_selectable_rect_bluelike</item>
+        <item name="selectableRoundedRectDrawableColored">@drawable/state_list_selectable_rounded_rect_bluelike</item>
+    </style>
+
+
 
     <!-- Green App Theme -->
     <style name="BaseTheme.Green" parent="AppTheme">
@@ -217,6 +234,13 @@
         <item name="colorAccent">@color/material_upeu_a700</item>
     </style>
 
+    <!-- Bluelike Dialog Theme -->
+    <style name="AppTheme.Dialog.Bluelike">
+        <item name="colorPrimary">@color/material_bluelike_500</item>
+        <item name="colorPrimaryDark">@color/material_bluelike_700</item>
+        <item name="colorAccent">@color/material_bluelike_a700</item>
+    </style>
+
     <!-- Green Dialog Theme -->
     <style name="AppTheme.Dialog.Green">
         <item name="colorPrimary">@color/material_green_500</item>
@@ -267,6 +291,13 @@
         <item name="colorPrimary">@color/material_upeu_500</item>
         <item name="colorPrimaryDark">@color/material_upeu_700</item>
         <item name="colorAccent">@color/material_upeu_a700</item>
+    </style>
+
+    <!-- Bluelike Alert Dialog Theme -->
+    <style name="AppTheme.Dialog.Alert.Bluelike">
+        <item name="colorPrimary">@color/material_bluelike_500</item>
+        <item name="colorPrimaryDark">@color/material_bluelike_700</item>
+        <item name="colorAccent">@color/material_bluelike_a700</item>
     </style>
 
     <!-- Green Alert Dialog Theme -->
