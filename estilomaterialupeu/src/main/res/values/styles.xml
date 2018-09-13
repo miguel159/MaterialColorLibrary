@@ -120,70 +120,70 @@
     </style>
 
 
-    <!-- Blukelike App Theme -->
-    <style name="BaseTheme.Bluelike" parent="AppTheme">
+    <!-- Oro App Theme -->
+    <style name="BaseTheme.Oro" parent="AppTheme">
         <!-- Attributes for all APIs -->
-        <item name="colorPrimary">@color/material_bluelike_500</item>
-        <item name="colorPrimaryDark">@color/material_bluelike_700</item>
-        <item name="colorAccent">@color/material_bluelike_a700</item>
-        <item name="dialogTheme">@style/AppTheme.Dialog.Bluelike</item>
-        <item name="alertDialogTheme">@style/AppTheme.Dialog.Alert.Bluelike</item>
+        <item name="colorPrimary">@color/material_oro_500</item>
+        <item name="colorPrimaryDark">@color/material_oro_700</item>
+        <item name="colorAccent">@color/material_oro_a700</item>
+        <item name="dialogTheme">@style/AppTheme.Dialog.Oro</item>
+        <item name="alertDialogTheme">@style/AppTheme.Dialog.Alert.Oro</item>
     </style>
 
-    <style name="AppTheme.Bluelike" parent="BaseTheme.Bluelike">
+    <style name="AppTheme.Oro" parent="BaseTheme.Oro">
         <!-- API specific attributes 14+ -->
-        <item name="selectableRectDrawableColored">@drawable/state_list_selectable_rect_bluelike</item>
-        <item name="selectableRoundedRectDrawableColored">@drawable/state_list_selectable_rounded_rect_bluelike</item>
+        <item name="selectableRectDrawableColored">@drawable/state_list_selectable_rect_oro</item>
+        <item name="selectableRoundedRectDrawableColored">@drawable/state_list_selectable_rounded_rect_oro</item>
     </style>
 
-    <!-- Yellow App Theme -->
-    <style name="BaseTheme.Yellow" parent="AppTheme">
+    <!-- Jade App Theme -->
+    <style name="BaseTheme.Jade" parent="AppTheme">
         <!-- Attributes for all APIs -->
-        <item name="colorPrimary">@color/material_yellow_500</item>
-        <item name="colorPrimaryDark">@color/material_yellow_700</item>
-        <item name="colorAccent">@color/material_yellow_a700</item>
-        <item name="dialogTheme">@style/AppTheme.Dialog.Yellow</item>
-        <item name="alertDialogTheme">@style/AppTheme.Dialog.Alert.Yellow</item>
+        <item name="colorPrimary">@color/material_jade_500</item>
+        <item name="colorPrimaryDark">@color/material_jade_700</item>
+        <item name="colorAccent">@color/material_jade_a700</item>
+        <item name="dialogTheme">@style/AppTheme.Dialog.Jade</item>
+        <item name="alertDialogTheme">@style/AppTheme.Dialog.Alert.Jade</item>
     </style>
 
-    <style name="AppTheme.Yellow" parent="BaseTheme.Yellow">
+    <style name="AppTheme.Jade" parent="BaseTheme.Jade">
         <!-- API specific attributes 14+ -->
-        <item name="selectableRectDrawableColored">@drawable/state_list_selectable_rect_yellow</item>
-        <item name="selectableRoundedRectDrawableColored">@drawable/state_list_selectable_rounded_rect_yellow</item>
+        <item name="selectableRectDrawableColored">@drawable/state_list_selectable_rect_jade</item>
+        <item name="selectableRoundedRectDrawableColored">@drawable/state_list_selectable_rounded_rect_jade</item>
     </style>
 
 
-    <!-- Lightblue App Theme -->
-    <style name="BaseTheme.Lightblue" parent="AppTheme">
+    <!-- Ladrillo App Theme -->
+    <style name="BaseTheme.Ladrillo" parent="AppTheme">
         <!-- Attributes for all APIs -->
-        <item name="colorPrimary">@color/material_lightblue_500</item>
-        <item name="colorPrimaryDark">@color/material_lightblue_700</item>
-        <item name="colorAccent">@color/material_lightblue_a700</item>
-        <item name="dialogTheme">@style/AppTheme.Dialog.Lightblue</item>
-        <item name="alertDialogTheme">@style/AppTheme.Dialog.Alert.Lightblue</item>
+        <item name="colorPrimary">@color/material_ladrillo_500</item>
+        <item name="colorPrimaryDark">@color/material_ladrillo_700</item>
+        <item name="colorAccent">@color/material_ladrillo_a700</item>
+        <item name="dialogTheme">@style/AppTheme.Dialog.Ladrillo</item>
+        <item name="alertDialogTheme">@style/AppTheme.Dialog.Alert.Ladrillo</item>
     </style>
 
-    <style name="AppTheme.Lightblue" parent="BaseTheme.Lightblue">
+    <style name="AppTheme.Ladrillo" parent="BaseTheme.Ladrillo">
         <!-- API specific attributes 14+ -->
-        <item name="selectableRectDrawableColored">@drawable/state_list_selectable_rect_lightblue</item>
-        <item name="selectableRoundedRectDrawableColored">@drawable/state_list_selectable_rounded_rect_lightblue</item>
+        <item name="selectableRectDrawableColored">@drawable/state_list_selectable_rect_ladrillo</item>
+        <item name="selectableRoundedRectDrawableColored">@drawable/state_list_selectable_rounded_rect_ladrillo</item>
     </style>
 
 
-    <!-- Pink App Theme -->
-    <style name="BaseTheme.Pink" parent="AppTheme">
+    <!-- Zafiro App Theme -->
+    <style name="BaseTheme.Zafiro" parent="AppTheme">
         <!-- Attributes for all APIs -->
-        <item name="colorPrimary">@color/material_pink_500</item>
-        <item name="colorPrimaryDark">@color/material_pink_700</item>
-        <item name="colorAccent">@color/material_pink_a700</item>
-        <item name="dialogTheme">@style/AppTheme.Dialog.Pink</item>
-        <item name="alertDialogTheme">@style/AppTheme.Dialog.Alert.Pink</item>
+        <item name="colorPrimary">@color/material_zafiro_500</item>
+        <item name="colorPrimaryDark">@color/material_zafiro_700</item>
+        <item name="colorAccent">@color/material_zafiro_a700</item>
+        <item name="dialogTheme">@style/AppTheme.Dialog.Zafiro</item>
+        <item name="alertDialogTheme">@style/AppTheme.Dialog.Alert.Zafiro</item>
     </style>
 
-    <style name="AppTheme.Pink" parent="BaseTheme.Pink">
+    <style name="AppTheme.Zafiro" parent="BaseTheme.Zafiro">
         <!-- API specific attributes 14+ -->
-        <item name="selectableRectDrawableColored">@drawable/state_list_selectable_rect_pink</item>
-        <item name="selectableRoundedRectDrawableColored">@drawable/state_list_selectable_rounded_rect_pink</item>
+        <item name="selectableRectDrawableColored">@drawable/state_list_selectable_rect_zafiro</item>
+        <item name="selectableRoundedRectDrawableColored">@drawable/state_list_selectable_rounded_rect_zafiro</item>
     </style>
 
 
@@ -285,32 +285,32 @@
         <item name="colorAccent">@color/material_upeu_a700</item>
     </style>
 
-    <!-- Bluelike Dialog Theme -->
-    <style name="AppTheme.Dialog.Bluelike">
-        <item name="colorPrimary">@color/material_bluelike_500</item>
-        <item name="colorPrimaryDark">@color/material_bluelike_700</item>
-        <item name="colorAccent">@color/material_bluelike_a700</item>
+    <!-- Oro Dialog Theme -->
+    <style name="AppTheme.Dialog.Oro">
+        <item name="colorPrimary">@color/material_oro_500</item>
+        <item name="colorPrimaryDark">@color/material_oro_700</item>
+        <item name="colorAccent">@color/material_oro_a700</item>
     </style>
 
-    <!-- Lightblue Dialog Theme -->
-    <style name="AppTheme.Dialog.Lightblue">
-        <item name="colorPrimary">@color/material_lightblue_500</item>
-        <item name="colorPrimaryDark">@color/material_lightblue_700</item>
-        <item name="colorAccent">@color/material_lightblue_a700</item>
+    <!-- Ladrillo Dialog Theme -->
+    <style name="AppTheme.Dialog.Ladrillo">
+        <item name="colorPrimary">@color/material_ladrillo_500</item>
+        <item name="colorPrimaryDark">@color/material_ladrillo_700</item>
+        <item name="colorAccent">@color/material_ladrillo_a700</item>
     </style>
 
-    <!-- Yellow Dialog Theme -->
-    <style name="AppTheme.Dialog.Yellow">
-        <item name="colorPrimary">@color/material_yellow_500</item>
-        <item name="colorPrimaryDark">@color/material_yellow_700</item>
-        <item name="colorAccent">@color/material_yellow_a700</item>
+    <!-- Jade Dialog Theme -->
+    <style name="AppTheme.Dialog.Jade">
+        <item name="colorPrimary">@color/material_jade_500</item>
+        <item name="colorPrimaryDark">@color/material_jade_700</item>
+        <item name="colorAccent">@color/material_jade_a700</item>
     </style>
 
-    <!-- Pink Dialog Theme -->
-    <style name="AppTheme.Dialog.Pink">
-        <item name="colorPrimary">@color/material_pink_500</item>
-        <item name="colorPrimaryDark">@color/material_pink_700</item>
-        <item name="colorAccent">@color/material_pink_a700</item>
+    <!-- Zafiro Dialog Theme -->
+    <style name="AppTheme.Dialog.Zafiro">
+        <item name="colorPrimary">@color/material_zafiro_500</item>
+        <item name="colorPrimaryDark">@color/material_zafiro_700</item>
+        <item name="colorAccent">@color/material_zafiro_a700</item>
     </style>
 
 
@@ -367,32 +367,32 @@
         <item name="colorAccent">@color/material_upeu_a700</item>
     </style>
 
-    <!-- Bluelike Alert Dialog Theme -->
-    <style name="AppTheme.Dialog.Alert.Bluelike">
-        <item name="colorPrimary">@color/material_bluelike_500</item>
-        <item name="colorPrimaryDark">@color/material_bluelike_700</item>
-        <item name="colorAccent">@color/material_bluelike_a700</item>
+    <!-- Oro Alert Dialog Theme -->
+    <style name="AppTheme.Dialog.Alert.Oro">
+        <item name="colorPrimary">@color/material_oro_500</item>
+        <item name="colorPrimaryDark">@color/material_oro_700</item>
+        <item name="colorAccent">@color/material_oro_a700</item>
     </style>
 
-    <!-- Lightblue Dialog Theme -->
-    <style name="AppTheme.Dialog.Alert.Lightblue">
-        <item name="colorPrimary">@color/material_lightblue_500</item>
-        <item name="colorPrimaryDark">@color/material_lightblue_700</item>
-        <item name="colorAccent">@color/material_lightblue_a700</item>
+    <!-- Ladrillo Dialog Theme -->
+    <style name="AppTheme.Dialog.Alert.Ladrillo">
+        <item name="colorPrimary">@color/material_ladrillo_500</item>
+        <item name="colorPrimaryDark">@color/material_ladrillo_700</item>
+        <item name="colorAccent">@color/material_ladrillo_a700</item>
     </style>
 
-    <!-- Yellow Dialog Theme -->
-    <style name="AppTheme.Dialog.Alert.Yellow">
-        <item name="colorPrimary">@color/material_yellow_500</item>
-        <item name="colorPrimaryDark">@color/material_yellow_700</item>
-        <item name="colorAccent">@color/material_yellow_a700</item>
+    <!-- Jade Dialog Theme -->
+    <style name="AppTheme.Dialog.Alert.Jade">
+        <item name="colorPrimary">@color/material_jade_500</item>
+        <item name="colorPrimaryDark">@color/material_jade_700</item>
+        <item name="colorAccent">@color/material_jade_a700</item>
     </style>
 
-    <!-- Pink Dialog Theme -->
-    <style name="AppTheme.Dialog.Alert.Pink">
-        <item name="colorPrimary">@color/material_pink_500</item>
-        <item name="colorPrimaryDark">@color/material_pink_700</item>
-        <item name="colorAccent">@color/material_pink_a700</item>
+    <!-- Zafiro Dialog Theme -->
+    <style name="AppTheme.Dialog.Alert.Zafiro">
+        <item name="colorPrimary">@color/material_zafiro_500</item>
+        <item name="colorPrimaryDark">@color/material_zafiro_700</item>
+        <item name="colorAccent">@color/material_zafiro_a700</item>
     </style>
 
     <!-- Green Alert Dialog Theme -->
